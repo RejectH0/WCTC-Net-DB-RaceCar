@@ -34,5 +34,10 @@ namespace RaceTrack.RaceTrack.Cars
         {
             Console.WriteLine($"The {Name} ends in position {Position}!");
         }
+
+        public virtual void StopEngine()
+        {
+            Console.WriteLine($"The {Name}'s engine is switched off, and C3PO is heard in the background telling R2 to switch off.");
+        }
     }
 }

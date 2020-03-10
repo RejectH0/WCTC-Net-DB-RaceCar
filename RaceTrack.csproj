@@ -46,11 +46,13 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RaceTrack\Cars\Minivan.cs" />
+    <Compile Include="RaceTrack\Cars\ToyotaCorolla.cs" />
     <Compile Include="RaceTrack\Cars\Tractor.cs" />
     <Compile Include="RaceTrack\Cars\FordGt.cs" />
     <Compile Include="RaceTrack\Cars\RaceCar.cs" />
     <Compile Include="RaceTrack\Drivers\Driver.cs" />
     <Compile Include="RaceTrack\Drivers\Antonio.cs" />
+    <Compile Include="RaceTrack\Drivers\Gregg.cs" />
     <Compile Include="RaceTrack\Drivers\SoccerMom.cs" />
     <Compile Include="RaceTrack\Drivers\FarmerJoe.cs" />
     <Compile Include="RaceTrack\RaceTrack.cs" />
